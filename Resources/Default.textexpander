@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Auditory Feedback</key>
+	<true/>
+	<key>Client Mode</key>
+	<integer>0</integer>
+	<key>Cross Platform Images</key>
+	<true/>
+	<key>Remote Snippets</key>
+	<array/>
+	<key>Restore Pasteboard</key>
+	<true/>
+	<key>Snippet Menu Item Width</key>
+	<integer>370</integer>
+	<key>Snippets Imported</key>
+	<date>2009-06-27T14:43:07Z</date>
+	<key>Status Item</key>
+	<true/>
+	<key>applaststatus</key>
+	<integer>0</integer>
+	<key>checkforupdates</key>
+	<true/>
+	<key>checkfrequency</key>
+	<integer>7</integer>
+	<key>groupsTE2</key>
+	<array>
+		<dict>
+			<key>expandAfterMode</key>
+			<integer>0</integer>
+			<key>expanderExceptionsMode</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>Sample Snippets</string>
+			<key>snippetUUIDs</key>
+			<array>
+				<string>BC5508E9-1D45-4E54-9C2D-8CCF26578024</string>
+				<string>89950CA5-2230-4E83-B08E-DC307ED09AF7</string>
+			</array>
+			<key>syncWithDotMac</key>
+			<integer>0</integer>
+			<key>updateFrequency</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>AD1FE37D-4C30-4026-8E30-83E3394A551C</string>
+			<key>writable</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>groupsToDeleteDuringSync</key>
+	<array/>
+	<key>outlineState</key>
+	<array>
+		<string>AD1FE37D-4C30-4026-8E30-83E3394A551C</string>
+	</array>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>ddate</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2009-06-19T14:50:01Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2009-06-19T14:51:11Z</date>
+			<key>plainText</key>
+			<string>%e %B %Y</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>BC5508E9-1D45-4E54-9C2D-8CCF26578024</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>    </string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2009-06-19T16:13:40Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2009-06-19T16:31:23Z</date>
+			<key>plainText</key>
+			<string>	</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>89950CA5-2230-4E83-B08E-DC307ED09AF7</string>
+		</dict>
+	</array>
+	<key>snippetsToDeleteDuringSync</key>
+	<array/>
+	<key>wantsDaemonEnabled</key>
+	<true/>
+</dict>
+</plist>

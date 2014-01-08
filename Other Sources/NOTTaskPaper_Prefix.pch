@@ -1,0 +1,16 @@
+//
+// Prefix header for all source files of the 'NavigationController' target in the 'NavigationController' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+	#import <QuartzCore/QuartzCore.h>
+	#import "Logger.h"
+#endif
+
+#define DEBUG_DRAWING 0
+#define IS_IPAD ([[UIDevice currentDevice] respondsToSelector:@selector(userInterfaceIdiom)] && [[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) 
+#define APP_CONTROLLER ((ApplicationController *)[[UIApplication sharedApplication] delegate])
+#define APP_VIEW_CONTROLLER ([APP_CONTROLLER applicationViewController])
+#define PATH_CONTROLLER ([APP_CONTROLLER pathController])

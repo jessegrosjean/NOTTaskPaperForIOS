@@ -1,0 +1,32 @@
+Get Started:
+	TaskPaper lists have three types of items: projects, tasks, and notes. Any item can also be tagged.
+	- To create an item tap the plus button and then tap the return key to choose the item's type.
+	- To edit an existing item double tap on the item's text.
+	- To tag an item type '@' followed by the tag name anywhere in an item's text.
+	- To indent an item tap the space key when the cursor is at the start of the item's text or (iPad only) tap the tab key on the extended keyboard row.
+	- To unindent an item tap the delete key when the cursor is at the start of the item's text.
+Searching Lists:
+	Use search to filter your lists and to focus on particular groups of items.
+	- To search by project click the "Go" (>) button and select the project.
+	- To search by tag click the "Tag" (@) button and select the tag.
+	- To start your own search tap the bottom toolbar's magnifying glass.
+	- To cancel a search tap the bottom toolbar's magnifying glass.
+	- To edit your current search, tap the magnifying glass icon at the top of the screen next to your search terms.
+	- The search icon's behavior changes when a search is active. This change is indicated with a dot drawn in the middle of the magnifying glass.
+	- To quickly search by excluding a project or tag, tap and hold on its name in the project or tag menus.
+Tips & Tricks:
+	- To quickly tag an item as done swipe left to right over the item.
+	- To cut, copy, paste, or delete an item swipe right to left over the item.
+	- To move items, tap and hold then drag to a new location.
+	- To create multiple items quickly tap the return key after typing each item.
+	- Selecting multiple items requires two fingers. With one finger, press and hold any toolbar item. While holding down that button, use another finger to tap the items you would like to select.
+	- If you have trouble completing swipe gestures try to shorten them. They only require a short "push".
+	- Swipe right or left in the bottom-left corner of the document's toolbar to enter or exit full screen mode. You can also use "Focus In" and "Focus Out" from the More Actions (…) menu.
+Manage Documents:
+	- To delete a file or folder, swipe its name in the document list view and then tap the 'Delete' button.
+	- To scroll through long documents & lists tap and hold on the right side of the view where scroll indicator shows. Then drag to quickly scroll through your document.
+	- To rename a file, tap it in the list view, tap its name in the document title bar, and tap 'Rename.'
+	- To rename the folder you are in, you must rename them on Dropbox.com or when using the desktop client due to a sync bug for folders with non-txt contents.
+Learn More:
+	Read the Help book to learn about document syncing, document tagging, and more.
+	To open Help, tap the Settings (gear) button in the documents list view and choose "Help".

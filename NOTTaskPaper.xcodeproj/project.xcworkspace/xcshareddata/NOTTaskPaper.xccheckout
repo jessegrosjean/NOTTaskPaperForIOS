@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>89E9D71C-BFDD-4AF3-9C3E-E2D143B5031A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NOTTaskPaper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D1F9539D-97F4-416E-939B-E4B91DE9E6FF</key>
+		<string>https://github.com/jessegrosjean/NOTTaskPaperForIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NOTTaskPaper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D1F9539D-97F4-416E-939B-E4B91DE9E6FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jessegrosjean/NOTTaskPaperForIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D1F9539D-97F4-416E-939B-E4B91DE9E6FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D1F9539D-97F4-416E-939B-E4B91DE9E6FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NOTTaskPaperForIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

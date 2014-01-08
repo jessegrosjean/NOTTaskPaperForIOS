@@ -1,0 +1,23 @@
+Get Started:
+	TaskPaper lists have three types of items: projects, tasks, and notes. Any item can also be tagged.
+	- To create an item tap the plus button and then tap the return key to choose the item's type.
+	- To edit an existing item double tap on the item's text.
+	- To tag an item type '@' followed by the tag name anywhere in an item's text.
+	- To indent an item tap the space key when the cursor is at the start of the item's text.
+	- To unindent an item tap the delete key when the cursor is at the start of the item's text.
+Searching Lists:
+	Use search to filter your lists and to focus on particular groups of items.
+	- To search by project click the "Go" button and select the project.
+	- To search by tag click the "Tag" button and select the tag.
+	- To start your own search tap the bottom toolbar magnifying glass.
+	- To cancel a search tap the magnifying glass–its behavior changes when a search is active. This change is indicated with a dot drawn in the middle of the glass.
+Tips & Tricks:
+	- To quickly tag an item as done swipe left to right over the item.
+	- To cut, copy, paste, (or delete on iPad), an item swipe right to left over the item.
+	- To move items tap and hold, then drag to a new location.
+	- To select multiple items press and hold any bottom toolbar item while selecting.
+	- To create multiple items quickly tap the return key after typing each item.
+	- If you have trouble completing swipe gestures try to shorten them. They only require a short "push".
+Learn More:
+	Read the Help book to learn about document syncing, document tagging, and more.
+	To open Help click the top left button in the documents list view, and choose "Help...".
