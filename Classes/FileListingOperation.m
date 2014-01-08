@@ -3,7 +3,6 @@
 //  PlainText
 //
 //  Created by Jesse Grosjean on 1/4/11.
-//  Copyright 2011 Hog Bay Software. All rights reserved.
 //
 
 #import "FileListingOperation.h"

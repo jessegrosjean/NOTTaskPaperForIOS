@@ -3,7 +3,6 @@
 //  SyncTest
 //
 //  Created by Jesse Grosjean on 8/7/10.
-//  Copyright 2010 Hog Bay Software. All rights reserved.
 //
 
 #import "ShadowMetadata.h"

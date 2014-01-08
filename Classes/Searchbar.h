@@ -3,7 +3,6 @@
 //  PlainText
 //
 //  Created by Jesse Grosjean on 10/14/10.
-//  Copyright 2010 Hog Bay Software. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

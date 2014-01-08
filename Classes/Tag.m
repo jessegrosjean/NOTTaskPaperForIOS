@@ -3,7 +3,6 @@
 //  Documents
 //
 //  Created by Jesse Grosjean on 5/18/09.
-//  Copyright 2009 Hog Bay Software. All rights reserved.
 //
 
 #import "Tag.h"

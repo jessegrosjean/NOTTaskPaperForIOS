@@ -3,7 +3,6 @@
 //  Documents
 //
 //  Created by Jesse Grosjean on 7/13/09.
-//  Copyright 2009 Hog Bay Software. All rights reserved.
 //
 
 #import "TaskPaperSection.h"

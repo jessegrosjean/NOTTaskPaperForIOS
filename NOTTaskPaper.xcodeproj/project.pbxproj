@@ -28,6 +28,7 @@
 		880BC9571386D234007388E2 /* wand_small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 880BC9511386D234007388E2 /* wand_small@2x.png */; };
 		880BC95B1386D28C007388E2 /* font_small.png in Resources */ = {isa = PBXBuildFile; fileRef = 880BC9581386D28C007388E2 /* font_small.png */; };
 		880BC95D1386D28C007388E2 /* font_small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 880BC9591386D28C007388E2 /* font_small@2x.png */; };
+		88110603187DF41D0050A839 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 88110602187DF41D0050A839 /* LICENSE.md */; };
 		881C67F11379CFFA00C57AEC /* AddHocEntitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 88A6AAB01237DCD10014A427 /* AddHocEntitlements.plist */; };
 		881C67F21379CFFA00C57AEC /* DistributionEntitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 88A6AAB11237DCD10014A427 /* DistributionEntitlements.plist */; };
 		881C67F81379CFFA00C57AEC /* HelpPageTemplate.html in Resources */ = {isa = PBXBuildFile; fileRef = 8850D8A11294286C00F29113 /* HelpPageTemplate.html */; };
@@ -373,6 +374,7 @@
 		880BC9511386D234007388E2 /* wand_small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wand_small@2x.png"; sourceTree = "<group>"; };
 		880BC9581386D28C007388E2 /* font_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = font_small.png; sourceTree = "<group>"; };
 		880BC9591386D28C007388E2 /* font_small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "font_small@2x.png"; sourceTree = "<group>"; };
+		88110602187DF41D0050A839 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.md; sourceTree = "<group>"; };
 		881C67AE1379C2FC00C57AEC /* ContactSettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactSettingsViewController.h; sourceTree = "<group>"; };
 		881C67AF1379C2FD00C57AEC /* ContactSettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactSettingsViewController.m; sourceTree = "<group>"; };
 		881C67B81379CABB00C57AEC /* SearchTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchTextField.h; sourceTree = "<group>"; };
@@ -910,6 +912,7 @@
 			isa = PBXGroup;
 			children = (
 				88501871187DABD400366B9A /* README.md */,
+				88110602187DF41D0050A839 /* LICENSE.md */,
 				8366F4E41715EFBA0057BDA3 /* Custom Fonts */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -1894,6 +1897,7 @@
 				8366F4F31715EFF80057BDA3 /* SourceCodePro-Bold.ttf in Resources */,
 				8366F4F41715EFF80057BDA3 /* SourceCodePro-Regular.ttf in Resources */,
 				8366F4F51715EFF80057BDA3 /* SourceSansPro-Bold.ttf in Resources */,
+				88110603187DF41D0050A839 /* LICENSE.md in Resources */,
 				8366F4F61715EFF80057BDA3 /* SourceSansPro-Regular.ttf in Resources */,
 				8366F4F71715EFF80057BDA3 /* Ubuntu-B.ttf in Resources */,
 				8366F4F81715EFF80057BDA3 /* Ubuntu-R.ttf in Resources */,

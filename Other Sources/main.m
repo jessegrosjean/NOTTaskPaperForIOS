@@ -3,7 +3,6 @@
 // PlainText
 //
 //  Created by Jesse Grosjean on 6/23/10.
-//  Copyright Hog Bay Software 2010. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

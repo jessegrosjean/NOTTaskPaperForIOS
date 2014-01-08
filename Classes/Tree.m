@@ -3,7 +3,6 @@
 //  Documents
 //
 //  Created by Jesse Grosjean on 5/18/09.
-//  Copyright Hog Bay Software 2009 . All rights reserved.
 //
 
 #import "Tree.h"

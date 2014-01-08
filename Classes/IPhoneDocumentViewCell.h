@@ -3,7 +3,6 @@
 //  TableTest
 //
 //  Created by Jesse Grosjean on 6/19/09.
-//  Copyright 2009 Hog Bay Software. All rights reserved.
 //
 
 #import "Section.h"

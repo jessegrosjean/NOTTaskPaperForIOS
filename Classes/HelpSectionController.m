@@ -3,7 +3,6 @@
 //  Documents
 //
 //  Created by Jesse Grosjean on 1/21/10.
-//  Copyright 2010 Hog Bay Software. All rights reserved.
 //
 
 #import "HelpSectionController.h"

@@ -3,7 +3,6 @@
 //  PlainText
 //
 //  Created by Jesse Grosjean on 4/17/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
 #import "IFUpDownCellController.h"

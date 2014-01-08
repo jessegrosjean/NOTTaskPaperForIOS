@@ -3,7 +3,6 @@
 //  PlainText
 //
 //  Created by Jesse Grosjean on 6/9/10.
-//  Copyright 2010 Hog Bay Software. All rights reserved.
 //
 
 

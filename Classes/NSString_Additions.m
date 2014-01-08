@@ -3,7 +3,6 @@
 //  SimpleText
 //
 //  Created by Jesse Grosjean on 5/8/10.
-//  Copyright 2010 Hog Bay Software. All rights reserved.
 //
 
 #import "NSString_Additions.h"

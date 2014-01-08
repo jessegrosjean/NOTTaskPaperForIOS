@@ -3,7 +3,6 @@
 //  MarginsTest
 //
 //  Created by Jesse Grosjean on 10/27/10.
-//  Copyright 2010 Hog Bay Software. All rights reserved.
 //
 
 #import "BrowserView.h"

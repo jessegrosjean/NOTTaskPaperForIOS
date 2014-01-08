@@ -2,7 +2,6 @@
 //  MenuView.m
 //
 //  Created by Jesse Grosjean on 10/22/09.
-//  Copyright 2009 Hog Bay Software. All rights reserved.
 //
 
 #import "MenuView.h"
