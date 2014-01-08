@@ -1,6 +1,6 @@
 This is the source code for the original TaskPaper for iOS.
 
-I'm putting contents (minus included third party libs, code, etc) of this directory into the public domain. It contains the source code for the original TaskPaper for iOS app. I no longer have time to develop this app, but there seem to be other developers who'd like a crack at the code.
+It contains the source code for the original TaskPaper for iOS app. I no longer have time to develop this app, but there seem to be other developers who'd like a crack at the code.
 
 It's fairly old and needs some work in many places. If you really want to spend some time on it I would recommend taking away the custom sync lib and replacing with a Dropbox or iCloud based solution as a start. The existing sync has some hard to track down bugs.
 
