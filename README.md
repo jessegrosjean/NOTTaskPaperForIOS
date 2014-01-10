@@ -6,7 +6,7 @@ It's fairly old and needs some work in many places. If you really want to spend 
 
 IMPORTANT
 
-You are free to use this code in anyway that you see fit. But please DO NOT name your app "TaskPaper" or anything that can be mistaking for "TaskPaper". I am still developing TaskPaper for Mac, and someday (distant remote possibility) I may even try to release a TaskPaper for iOS again. I don't want people to be confused an think any apps derived from this code are made by Hog Bay Software.
+You are free to use this code in any way that you see fit. But please DO NOT name your app "TaskPaper" or anything that can be mistaken for "TaskPaper". I am still developing TaskPaper for Mac, and someday (distant remote possibility) I may even try to release a TaskPaper for iOS again. I don't want people to be confused and think any apps derived from this code are made by Hog Bay Software.
 
 I do encorage you to advertise the fact that your derived app works with 'taskpaper' files, etc in the app description. Just not directly in app name.
 
